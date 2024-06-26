@@ -1,0 +1,31 @@
+﻿Countries,Language,Population (millions),IDH,Area (sq km),Average Age
+Canada,"English, French",37.7,0.929,"9,984,670",41.8
+United States,English,331.4,0.926,"9,525,067",38.5
+Mexico,Spanish,126.2,0.767,"1,964,375",28.3
+Brazil,Portuguese,213.9,0.759,"8,515,767",33.5
+Argentina,Spanish,45.4,0.845,"2,780,400",31.9
+Colombia,Spanish,50.3,0.767,"1,141,748",30.2
+Peru,Spanish,32.5,0.777,"1,285,216",30.4
+Venezuela,Spanish,28.5,0.711,"916,445",29.6
+Chile,Spanish,19.1,0.851,"756,102",35.4
+Ecuador,Spanish,17.6,0.759,"283,561",28.1
+Bolivia,Spanish,11.8,0.718,"1,098,581",25.6
+Paraguay,"Spanish, Guarani",7.3,0.695,"406,752",26.9
+Uruguay,Spanish,3.5,0.817,"176,215",35.8
+Guyana,English,0.8,0.654,"214,969",26.2
+Suriname,Dutch,0.6,0.72,"163,820",29.9
+French Guiana,French,0.3,NA,"83,534",29.9
+Cuba,Spanish,11.3,NA,"110,861",41.9
+Haiti,"French, Haitian Creole",11.4,0.51,"27,750",23.2
+Dominican Republic,Spanish,10.7,0.736,"48,671",28.8
+Jamaica,English,2.9,0.732,"10,991",29.2
+Trinidad and Tobago,English,1.4,0.78,"5,130",36.2
+Barbados,English,0.3,0.807,430,38.2
+Bahamas,English,0.4,0.805,"13,878",32.1
+Belize,English,0.4,0.709,"22,966",25.9
+Costa Rica,Spanish,5.1,0.81,"51,100",32.6
+El Salvador,Spanish,6.5,0.68,"21,041",27.9
+Guatemala,Spanish,17.7,0.65,"108,889",23.5
+Honduras,Spanish,9.7,0.617,"112,492",23.2
+Nicaragua,Spanish,6.7,0.66,"130,373",26.8
+Panama,Spanish,4.4,0.795,"75,417",30.5
