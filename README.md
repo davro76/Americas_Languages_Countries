@@ -1,4 +1,6 @@
 # Americas, Languages, and Countries
+
+<p>A spoken language is not only a means of communication between citizens of the same country but also a powerful tool for integration between nations. In today’s digitalized and globalized world, countries worldwide are seeking to capitalize on these opportunities. Despite its rich history and vast natural resources, Haiti continues to struggle to improve the living conditions of its citizens. This repository aims to highlight Haiti's current situation based on its spoken language in comparison to other countries in the Americas.<\p>
 This repository contains data visualizations using Plotly.
 
 ## Interactive Plotly Figure
