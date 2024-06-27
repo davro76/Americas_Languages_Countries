@@ -5,4 +5,4 @@ This repository contains data visualizations using Plotly.
 
 You can view the interactive Plotly figure by clicking the link below:
 
-[Interactive Plotly Figure](https://username.github.io/Americas_Languages_Countries/figure.html)
+[Interactive Plotly Figure](https://davro76.github.io/Americas_Languages_Countries/figure.html)
